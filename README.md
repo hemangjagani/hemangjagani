@@ -100,24 +100,3 @@
 > *"Code is like humor. When you have to explain it, it's bad." - Cory House*
 
 <br>
-
-<div align="center">
-  
-  ### 🎯 Currently Focusing On
-  - Building scalable microservices architecture
-  - Deep diving into cloud-native technologies
-  - Contributing to open-source projects
-  - Mastering system design principles
-
-</div>
-
-<br>
-
----
-<div align="center">
-  
-  **Let's build something amazing together!** 🚀
-  
-  <p>📧 mr.hemangjagani@gmail.com | 💼 <a href="https://linkedin.com/in/hemangjagani">LinkedIn</a></p>
-
-</div>
