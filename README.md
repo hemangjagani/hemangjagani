@@ -83,19 +83,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemangjagani&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="hemangjagani" /></p>
-  
-
-</div>
-
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 ### 💡 Philosophy
 > *"Code is like humor. When you have to explain it, it's bad." - Cory House*
 
