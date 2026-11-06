@@ -4,28 +4,16 @@
 <p align="center">A passionate software developer with years of experience building scalable web applications. I love transforming complex problems into elegant solutions using modern technologies. Currently exploring DevOps and AI/ML to create even more impactful software. 🚀</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hemangjagani&label=Profile%20views&color=0e75b6&style=flat" alt="hemangjagani" /> 
+  <img src="https://komarev.com/ghpvc/?username=hemangjagani&label=Profile%20views&color=0e75b6&style=flat" alt="hemangjagani" />
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="icon" width="50" height="50" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,redux,nodejs" alt="Core stack" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="icon" width="50" height="50" />
-  <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="icon" width="50" height="50" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,mysql,docker,postgres,mongodb" alt="Cloud and data" />
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -39,15 +27,12 @@
 
 - 📫 How to reach me **mr.hemangjagani@gmail.com** - Let's discuss how we can create impactful solutions together
 
-- 📄 Download my [resume](https://drive.google.com/file/d/1SCNWe9tfaUl0U8MxbyTeER-kAU5R7v4W/view?usp=sharing) to see my journey in building scalable applications
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemangjagani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemangjagani" height="30" width="40" /></a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3 align="left">Technologies I Work With:</h3>
 
@@ -81,7 +66,7 @@
 
 <br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 💡 Philosophy
 > *"Code is like humor. When you have to explain it, it's bad." - Cory House*
